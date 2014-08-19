@@ -1,6 +1,13 @@
 # stormpath-express
 
-Build simple, secure web applications with Stormpath and Express!
+
+Biomassives Standard Login Build for apps and dashboard
+sites making use of this
+
+ecocity.com - in development for civic. informed ecocitizen, org and business dashboard
+
+
+Build of simple, secure web applications with Stormpath login service and Node Express
 
 
 **NOTE**: This library is an early release.  It's currently lacking many
